@@ -1,0 +1,23 @@
+PatientId,Diagnosis,Prescriptions,Treatment Plans
+p10017,Hypertension; Type 2 Diabetes,Metformin,Monitor blood pressure; Manage blood sugar levels
+p10004,Hyperlipidemia; Arthritis,Atorvastatin,Exercise; Dietary modifications
+p10015,Hypertension; COPD,Lisinopril,Monitor blood pressure; Use inhalers regularly
+p10013,No diagnosis available,No prescriptions,No treatment plans available
+p00010,Asthma; Allergies,Albuterol,Use inhaler as needed; Avoid allergens
+p00020,Anxiety; Depression,Sertraline,Cognitive Behavioral Therapy (CBT); Stress management
+p10018,Hypertension; Hyperlipidemia,Atorvastatin,Exercise; Limit sodium intake
+p00009,Chronic Migraine; Hypertension,Sumatriptan,Trigger avoidance; Monitor blood pressure
+p00008,Obesity; Sleep Apnea,Orlistat,Lifestyle changes; Sleep study; CPAP therapy
+p00019,Anxiety; Depression,Sertraline,Cognitive Behavioral Therapy (CBT); Stress management
+p00001,Hypertension; Heart Disease,Hydrochlorothiazide,Limit sodium intake; Cardiac rehab
+p00012,Allergic Rhinitis; Gastritis,Montelukast,Avoid allergens; Dietary modifications
+p00011,Chronic Fatigue Syndrome; Vitamin D Deficiency,Vitamin D supplements,Gradual increase in physical activity
+p00003,Prostate Enlargement; Benign,Finasteride,Regular check-ups; Monitor urinary symptoms
+p00014,Diabetes Mellitus; Osteoporosis,Insulin,Monitor blood sugar; Bone density screening
+p00002,Depression; PTSD,Fluoxetine,Therapy; Relaxation techniques; Listen to soothing music
+p00013,No diagnosis available,No prescriptions,No treatment plans available
+p00005,Chronic Migraine; High Blood Pressure,Sumatriptan,Trigger avoidance; Monitor blood pressure
+p00016,Asthma; Seasonal Allergies,Montelukast,Use inhaler as needed; Avoid allergens
+p00004,None,No prescriptions;Paracetamol,No treatment plans available
+p00007,Chronic Fatigue Syndrome; Vitamin D Deficiency,Vitamin D supplements,Gradual increase in physical activity
+p00006,Sorethroat,Finasteride,Regular check-ups; Monitor urinary symptoms

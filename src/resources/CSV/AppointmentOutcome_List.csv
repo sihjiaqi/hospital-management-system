@@ -1,0 +1,12 @@
+AppointmentId,Service Type,MedicationId,Consultation Notes,Status,Medication Price,Service Fee,Payment Status
+1,Consultation,Paracetamol,"Patient advised to rest for 3 days",PENDING,10.00,1.5,11.50,UNPAID
+2,Checkup,Ibuprofen,"Follow-up for previous illness",DISPENSED,10.00,,10.00,UNPAID
+3,Consultation,Paracetamol,"Antibiotics prescribed for throat infection",PENDING,10.00,1.5,11.50,UNPAID
+4,Follow-up,Amoxicillin,"Prescription updated for ongoing treatment",DISPENSED,10.00,5.0,15.00,UNPAID
+5,Consultation,Amoxicillin,"Initial consultation medication prescribed",PENDING,10.00,5.0,15.00,UNPAID
+6,Consultation,Paracetamol,"Drink more water",DISPENSED,10.00,1.5,11.50,UNPAID
+7,Consultation,Ibuprofen,"Patient experiencing mild headaches",PENDING,10.00,,10.00,UNPAID
+8,Checkup,Amoxicillin,"Routine checkup for chronic condition",DISPENSED,10.00,5.0,15.00,UNPAID
+9,Follow-up,Paracetamol,"Symptoms have improved significantly",DISPENSED,10.00,1.5,11.50,UNPAID
+10,Consultation,Ibuprofen,"Further tests recommended for diagnosis",PENDING,10.00,,10.00,UNPAID
+12,Checkup,Paracetamol,Slight fever and headache,PENDING,10.00,1.5,11.50,UNPAID

@@ -1,0 +1,27 @@
+Medicine Name,Initial Stock,Low Stock Level Alert,Current Stock,Price
+Clarithromycin,100,40,80,7.00
+Gabapentin,100,80,25,8.00
+Paracetamol (Liquid),300,150,50,2.50
+Ibuprofen (Liquid),200,179,30,2.80
+Azithromycin,150,60,30,10.50
+Loratadine,60,10,15,3.00
+Paracetamol,100,10,20,1.50
+Cetrizine,1000,400,1000,8.44
+Tramadol,130,75,29,10.00
+Penicillin,90,40,20,2.50
+Albuterol,100,100,25,16.00
+Amoxicillin (Capsule),130,110,25,5.50
+Aspirin,120,30,25,0.80
+Warfarin,60,40,10,9.00
+Fluoxetine,110,90,24,6.50
+Simvastatin,110,70,30,8.00
+Hydrocodone,200,100,40,12.50
+Prednisone,80,45,20,5.00
+Hydrochlorothiazide,140,100,35,4.00
+Cetirizine,200,80,50,4.00
+Sertraline,85,40,20,7.50
+Furosemide,80,55,15,2.80
+Omeprazole,95,45,25,6.00
+Amoxicillin,75,25,16,5.00
+Ranitidine,75,30,10,3.20
+Zolpidem,70,24,17,4.20
